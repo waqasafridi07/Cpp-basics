@@ -4,5 +4,5 @@ int main(){
     bool p = false;
     bool q = false;
     bool r = true;
-    cout<<(p== q ==r);
+    cout<<(p == q ==r);
 }
