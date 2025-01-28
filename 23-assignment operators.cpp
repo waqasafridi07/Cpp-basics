@@ -13,5 +13,8 @@ int main (){
     //int x = 10;
     //x /= 5;
     //cout<<x;<< output is 2;
+    // int x = 10;
+    //x %= 5;
+    //cout<<x;<< output/reminder is 0;
 
 }
